@@ -1,0 +1,9 @@
+D:/Project/MarchFourteen/PostApocalypseAlarmClock/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/CMakeFiles/PostApocalypseAlarmClock.dir
+D:/Project/MarchFourteen/PostApocalypseAlarmClock/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+D:/Project/MarchFourteen/PostApocalypseAlarmClock/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+D:/Project/MarchFourteen/PostApocalypseAlarmClock/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/CMakeFiles/list_install_components.dir
+D:/Project/MarchFourteen/PostApocalypseAlarmClock/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/CMakeFiles/install.dir
+D:/Project/MarchFourteen/PostApocalypseAlarmClock/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/CMakeFiles/install/local.dir
+D:/Project/MarchFourteen/PostApocalypseAlarmClock/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/CMakeFiles/install/strip.dir
+D:/Project/MarchFourteen/PostApocalypseAlarmClock/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/CMakeFiles/PostApocalypseAlarmClock_autogen_timestamp_deps.dir
+D:/Project/MarchFourteen/PostApocalypseAlarmClock/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/CMakeFiles/PostApocalypseAlarmClock_autogen.dir

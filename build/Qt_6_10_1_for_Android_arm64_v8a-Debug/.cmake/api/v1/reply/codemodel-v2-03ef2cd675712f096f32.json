@@ -1,0 +1,178 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-a92367cdd4e490d150bd.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "PostApocalypseAlarmClock",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "PostApocalypseAlarmClock::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-PostApocalypseAlarmClock-Debug-c09bf5f5e12c9e34d0d5.json",
+					"name" : "PostApocalypseAlarmClock",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "PostApocalypseAlarmClock_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-PostApocalypseAlarmClock_autogen-Debug-b46cc3764782e7710f3f.json",
+					"name" : "PostApocalypseAlarmClock_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "PostApocalypseAlarmClock_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-PostApocalypseAlarmClock_autogen_timestamp_deps-Debug-656bbc122e38427292ce.json",
+					"name" : "PostApocalypseAlarmClock_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "PostApocalypseAlarmClock_copy_apk_dependencies::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-PostApocalypseAlarmClock_copy_apk_dependencies-Debug-666579935c80e20109df.json",
+					"name" : "PostApocalypseAlarmClock_copy_apk_dependencies",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "PostApocalypseAlarmClock_make_aab::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-PostApocalypseAlarmClock_make_aab-Debug-a5f733c11c8851a2d6d9.json",
+					"name" : "PostApocalypseAlarmClock_make_aab",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "PostApocalypseAlarmClock_make_aar::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-PostApocalypseAlarmClock_make_aar-Debug-79d338e6c9077e40a321.json",
+					"name" : "PostApocalypseAlarmClock_make_aar",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "PostApocalypseAlarmClock_make_apk::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-PostApocalypseAlarmClock_make_apk-Debug-05f1dd6bcf01e1d03b81.json",
+					"name" : "PostApocalypseAlarmClock_make_apk",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "PostApocalypseAlarmClock_prepare_apk_dir::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-PostApocalypseAlarmClock_prepare_apk_dir-Debug-8db42cf0ddbd6d280e3e.json",
+					"name" : "PostApocalypseAlarmClock_prepare_apk_dir",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "_qt_internal_apk_dependencies::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-_qt_internal_apk_dependencies-Debug-b163a2fbdeb650bca097.json",
+					"name" : "_qt_internal_apk_dependencies",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "aab::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-aab-Debug-713f9c48ec2d00eeea69.json",
+					"name" : "aab",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "aar::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-aar-Debug-7607daded165818a9e56.json",
+					"name" : "aar",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "apk::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-apk-Debug-122f89af90e03003625b.json",
+					"name" : "apk",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "apk_all::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-apk_all-Debug-c9fac0fd9fc18dcf2733.json",
+					"name" : "apk_all",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "qt_internal_plugins::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-qt_internal_plugins-Debug-83d248732c0b467b0510.json",
+					"name" : "qt_internal_plugins",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/Project/MarchFourteen/PostApocalypseAlarmClock/build/Qt_6_10_1_for_Android_arm64_v8a-Debug",
+		"source" : "D:/Project/MarchFourteen/PostApocalypseAlarmClock"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

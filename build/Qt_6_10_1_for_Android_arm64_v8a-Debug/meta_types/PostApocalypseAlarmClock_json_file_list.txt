@@ -1,0 +1,1 @@
+D:/Project/MarchFourteen/PostApocalypseAlarmClock/build/Qt_6_10_1_for_Android_arm64_v8a-Debug/PostApocalypseAlarmClock_autogen/include/../EWIEGA46WW/moc_mainwindow.cpp.json
