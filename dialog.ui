@@ -172,6 +172,9 @@ color: green;
      </item>
      <item>
       <widget class="QPushButton" name="SubmitButton">
+       <property name="enabled">
+        <bool>true</bool>
+       </property>
        <property name="text">
         <string>Add Alarm</string>
        </property>

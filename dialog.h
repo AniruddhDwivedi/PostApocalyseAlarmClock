@@ -20,6 +20,8 @@ private slots:
 
     void on_WedCheck_clicked(bool checked);
 
+    void on_SubmitButton_clicked();
+
 private:
     Ui::Dialog *ui;
 };

@@ -7,11 +7,11 @@
 #include <QJsonArray>
 #include <QStandardPaths>
 
-Dialog::Dialog(QWidget *parent)
-    : QDialog(parent)
-    , ui(new Ui::Dialog)
-{
+Dialog::Dialog(QWidget *parent) : QDialog(parent), ui(new Ui::Dialog) {
     ui->setupUi(this);
+
+    // Manually connect the button to your function
+    connect(ui->SubmitButton, &QPushButton::clicked, this, &Dialog::on_SubmitButton_clicked);
 }
 
 Dialog::~Dialog()
@@ -19,7 +19,7 @@ Dialog::~Dialog()
     delete ui;
 }
 
-void Dialog::on_pushButton_clicked()
+void Dialog::on_SubmitButton_clicked()
 {
     QJsonObject newAlarm;
     newAlarm["name"] = ui->AlarmName->text().isEmpty() ? "New Alarm" : ui->AlarmName->text();

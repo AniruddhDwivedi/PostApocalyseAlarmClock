@@ -24,7 +24,6 @@ void MainWindow::on_pushButton_clicked()
 
     // .exec() opens the dialog and pauses code execution here until it's closed
     if (alarmDialog.exec() == QDialog::Accepted) {
-        // This block runs if you called accept() in the dialog
 
         qDebug() << "Alarm dialog closed. Time to refresh the list!";
 
